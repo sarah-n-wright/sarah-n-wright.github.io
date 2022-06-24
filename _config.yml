@@ -1,1 +1,19 @@
+
+# Website settings
+locale: "en-US"
+title: "Sarah N. Wright"
+name: &name "Sarah N. Wright"
+description: &description "Ph.D. Student, Bioinformatics"
+url: https://sarah-n-wright.github.io
+repository: "sarah-n-wright/sarah-n-wright.github.io"
+
 theme: jekyll-theme-cayman
+
+author:
+  name: "Sarah N. Wright"
+  bio: "Ph.D. Student, Bioinformatics"
+  location: "San Diego, CA, USA"
+  github: "sarah-n-wright"
+  googlescholar: "https://scholar.google.com/citations?user=5xHPWikAAAAJ&hl=en"
+  linkedin: "https://www.linkedin.com/in/sarahnwright/"
+  stackoverflow: "https://stackoverflow.com/users/12202013/sarah-w"
