@@ -17,3 +17,7 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=5xHPWikAAAAJ&hl=en"
   linkedin: "https://www.linkedin.com/in/sarahnwright/"
   stackoverflow: "https://stackoverflow.com/users/12202013/sarah-w"
+
+include:
+  - _data
+  - _pages
